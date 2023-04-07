@@ -11,7 +11,7 @@ Previous link to [Microsoft KB](https://support.microsoft.com/kb/3025946)
 
 ## Current Microsoft Article
 
-[What to try if you can't install or activate Office for Mac](https://support.microsoft.com/en-us/office/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea?ui=en-us&rs=en-us&ad=us)
+[What to try if you can't install or activate Office for Mac](https://support.microsoft.com/en-us/office/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4 b1e6-4e5f-bf3c-6ab945d03dea?ui=en-us&rs=en-us&ad=us)
 
 ## Microsoft Outlook for Mac
 
@@ -21,5 +21,5 @@ If you have isses using Outlook for Mac, attempt to use the Contact Support opti
 
 License
 Copyright (c) Microsoft Corporation. All rights reserved.
-
+  
 Licensed under the [MIT](LICENSE) License.
